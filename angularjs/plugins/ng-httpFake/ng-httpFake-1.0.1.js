@@ -1,3 +1,9 @@
+/*
+* ng.httpFake
+* Simulates the result of a request from the $http AngularJS.
+* @autor: Miller Augusto Silva Martins
+* @email: miller.augusto@gmail.com
+**/
 (function(window, document) {
     "use strict";
     (angular.module('ng.httpFake', [ 'ng' ])).factory('$httpFake', [ function() {
