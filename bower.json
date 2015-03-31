@@ -1,0 +1,24 @@
+{
+  "name": "ng-httpFake",
+  "description": "Simulates the result of a request from the $http AngularJS",
+  "version": "1.0.1",
+  "keywords": [
+    "httpFake",
+    "$http",
+    "mock",
+    "fake",
+    "js",
+    "front-end",
+    "web"
+  ],
+  "homepage": "https://github.com/miamarti/ng.httpFake",
+  "main": "angularjs/plugins/ng-httpFake/ng-httpFake-1.0.1.min.js",
+  "ignore": [
+    "/.*",
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md"
+  ]
+}
